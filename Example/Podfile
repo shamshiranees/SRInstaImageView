@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRInstaImageView_Example' do
+  pod 'SRInstaImageView', :path => '../'
+
+  target 'SRInstaImageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
