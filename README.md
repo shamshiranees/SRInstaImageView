@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/SRInstaImageView.svg?style=flat)](http://cocoapods.org/pods/SRInstaImageView)
 [![Platform](https://img.shields.io/cocoapods/p/SRInstaImageView.svg?style=flat)](http://cocoapods.org/pods/SRInstaImageView)
 
+
+## ScreenShot
+![ScreenShot](https://raw.githubusercontent.com/shamshiranees/SRInstaImageView/master/Example/SRInstaImageView/screenShot1.png)
+![ScreenShot](https://raw.githubusercontent.com/shamshiranees/SRInstaImageView/master/Example/SRInstaImageView/screenShot2.png)
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
